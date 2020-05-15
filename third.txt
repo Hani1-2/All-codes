@@ -1,1 +1,1 @@
-this is third txt
+this is merge commit 
