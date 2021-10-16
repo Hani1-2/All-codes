@@ -1,0 +1,37 @@
+2020-09-22 18:44:20,281 - 23
+2020-09-22 18:44:40,857 - Error
+Traceback (most recent call last):
+  File "C:/Users/Hp/PycharmProjects/oop practices sem2/logg.py", line 42, in <module>
+    value=int(input('Enter an integer: '))
+ValueError: invalid literal for int() with base 10: 'aa'
+2020-09-22 18:45:29,051 - Error
+Traceback (most recent call last):
+  File "C:/Users/Hp/PycharmProjects/oop practices sem2/logg.py", line 42, in <module>
+    value=int(input('Enter an integer: '))
+ValueError: invalid literal for int() with base 10: 'aa'
+2020-09-22 18:45:29,051 - exception occur
+2020-09-22 19:03:42,127 - Error
+Traceback (most recent call last):
+  File "C:/Users/Hp/PycharmProjects/oop practices sem2/logg.py", line 42, in <module>
+    value=int(input('Enter an integer: '))
+ValueError: invalid literal for int() with base 10: 'ZZ'
+2020-09-22 19:03:42,223 - exception occur
+2020-09-22 19:09:24,749 - 12
+2020-09-22 19:09:24,749 - 12
+2020-09-22 19:37:34,983 - 12
+2020-09-22 19:37:35,004 - 12
+2020-09-22 19:37:47,789 - 12
+2020-09-22 19:37:47,789 - 12
+2020-09-26 08:31:22,177 - Error
+Traceback (most recent call last):
+  File "C:/Users/Hp/PycharmProjects/oop practices sem2/logg.py", line 41, in <module>
+    value=int(input('Enter an integer: '))
+ValueError: invalid literal for int() with base 10: 'eleven444'
+2020-09-26 08:31:22,208 - exception occur
+2020-09-26 08:31:29,411 - 1
+2020-09-26 08:39:34,008 - Error
+Traceback (most recent call last):
+  File "C:/Users/Hp/PycharmProjects/oop practices sem2/logg.py", line 41, in <module>
+    value=int(input('Enter an integer: '))
+ValueError: invalid literal for int() with base 10: 'ede'
+2020-09-26 08:39:34,057 - exception occur

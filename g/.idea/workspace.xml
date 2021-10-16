@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="391679a7-d7ac-4e29-81d0-d2d59d459c1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqdIh6dkycQt32VYO7GnqqlwxT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basicpython" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\p1" />
+      <recent name="C:\Users\Hp\PycharmProjects\g" />
+      <recent name="C:\Users\Hp\PycharmProjects\g\venv\dir" />
+      <recent name="C:\Users\Hp\PycharmProjects\g\venv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\basicpython" />
+      <recent name="C:\Users\Hp\PycharmProjects\p1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.GUI PRACTICE">
+    <configuration name="GUI PRACTICE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI PRACTICE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="collections" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="g" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../basicpython" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../basicpython/collections.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../p1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../p1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../p1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../p1/rectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../p1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../p1/triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GUI PRACTICE" />
+      <item itemvalue="Python.collections" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.rectangle" />
+      <item itemvalue="Python.triangle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GUI PRACTICE" />
+        <item itemvalue="Python.collections" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.triangle" />
+        <item itemvalue="Python.rectangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="391679a7-d7ac-4e29-81d0-d2d59d459c1e" name="Default Changelist" comment="" />
+      <created>1583673979672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583673979672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584364394457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584364394457" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1584976699872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584976699872" />
+    <state width="848" height="205" key="GridCell.Tab.0.bottom" timestamp="1586606796089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="848" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586606796089" />
+    <state width="848" height="205" key="GridCell.Tab.0.center" timestamp="1586606796089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="848" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586606796089" />
+    <state width="848" height="205" key="GridCell.Tab.0.left" timestamp="1586606796089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="848" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586606796089" />
+    <state width="848" height="205" key="GridCell.Tab.0.right" timestamp="1586606796089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="848" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586606796089" />
+    <state width="847" height="258" key="GridCell.Tab.1.bottom" timestamp="1586599844066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586599844066" />
+    <state width="847" height="258" key="GridCell.Tab.1.center" timestamp="1586599844066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586599844066" />
+    <state width="847" height="258" key="GridCell.Tab.1.left" timestamp="1586599844066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586599844066" />
+    <state width="847" height="258" key="GridCell.Tab.1.right" timestamp="1586599844066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="847" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586599844066" />
+    <state x="219" y="325" key="com.intellij.ide.util.TipDialog" timestamp="1586606368935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="325" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586606368935" />
+    <state x="665" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586599834357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="665" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1586599834357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../basicpython/collections.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../basicpython/collections.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
